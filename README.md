@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raiman</h1>
 <h3 align="center">A passionate frontend developer, beta tester, nodejs, alpha hunter from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/78KI.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwjpkY6NmvP7AhXtyXMBHeo0BPIQMygDegUIARCRAg..i&docid=yw3WajrVF6gxGM&w=480&h=360&q=Coding%20anime%20GIF&ved=2ahUKEwjpkY6NmvP7AhXtyXMBHeo0BPIQMygDegUIARCRAg
 
 <p align="left"> <a href="https://twitter.com/@nandemo68795288" target="blank"><img src="https://img.shields.io/twitter/follow/@nandemo68795288?logo=twitter&style=for-the-badge" alt="@nandemo68795288" /></a> </p>
 
