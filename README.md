@@ -1,4 +1,4 @@
-<p align="left">ハリスマン</p>
+<h1 align="left">ハリスマン</h1>
 
 ###
 
