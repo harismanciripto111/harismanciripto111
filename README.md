@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">私はマルチタスク愛好家です</p>
+<h3 align="left">私はマルチタスク愛好家です</h3>
 
 ###
 
@@ -20,21 +20,13 @@
 
 ###
 
-<h2 align="left">Activity :</h2>
+<h3 align="left">My language:</h3>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">My language:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
@@ -49,18 +41,18 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/harismanciripto111/harismanciripto111/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
-  <a href="https://twitter.com/Nandemo68795288" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+<h2 align="left">Spotify</h2>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ecde5pvzfmdl56hllqv4avn4ne)
-
-
+###
