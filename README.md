@@ -59,8 +59,8 @@
   </a>
 </div>
 
-###
-<h2 align="left">Spotify</h2>
-###
+
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ecde5pvzfmdl56hllqv4avn4ne)
-###
+
+
