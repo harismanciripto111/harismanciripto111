@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/harismanciripto111/harismanciripto111/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -60,6 +62,11 @@
 ###
 
 <h2 align="left">Spotify</h2>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ecde5pvzfmdl56hllqv4avn4ne)
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ecde5pvzfmdl56hllqv4avn4ne)
 ###
