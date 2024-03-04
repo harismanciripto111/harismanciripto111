@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">`•.,¸¸,.•´  `•.,¸¸,.•´  `•.,¸¸,.•´`•.,¸¸,.•´  <br><br>• coding everyday<br>•🤖Bug Hunter🤖<br>• tidur adalah istirahat yang sangat baik<br>• Always active if you no longer have coursework, on Discord and Telegram<br>• Alpha Hunter<br>• Beta Tester</p>
+<p align="left">`•.,¸¸,.•´  `•.,¸¸,.•´  `•.,¸¸,.•´`•.,¸¸,.•´  <br>• tidur adalah istirahat yang sangat baik<br>• Always active if you no longer have coursework, on Discord and Telegram<br>• Alpha Hunter<br>• Beta Tester</p>
 
 ###
 
